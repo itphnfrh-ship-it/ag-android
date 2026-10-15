@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Проверка карт</string>
+    <string name="screen_subtitle">Пассажиры и экипаж круизного лайнера</string>
+    <string name="card_code_label">Код карты</string>
+    <string name="card_code_hint">Сканирование камерой появится следующим шагом. Сейчас введите код с карты.</string>
+    <string name="verify">Проверить</string>
+    <string name="status_valid">Действительна</string>
+    <string name="status_invalid">Недействительна</string>
+    <string name="role_passenger">Пассажир</string>
+    <string name="role_crew">Экипаж</string>
+    <string name="enter_code">Введите код карты</string>
+    <string name="network_error">Нет связи с сервисом проверки</string>
+    <string name="check_failed">Не удалось проверить карту</string>
+</resources>
